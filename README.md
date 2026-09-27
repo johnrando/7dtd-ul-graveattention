@@ -132,7 +132,7 @@ back the defaults above (which live in `Settings.cs`).
 ## Undead Legacy
 
 **Not required** — the mod works fine on a plain install, and is built to sit alongside UL without
-modifying anything of UL's. Tested against **UL 2.7.35**. UL renames the zombie sound groups; the
+modifying anything of UL's. Tested against **UL 2.7.36**. UL renames the zombie sound groups; the
 mod matches by the zombie's own configured sounds, so that makes no difference.
 
 **Rage.** UL's rage roar is the zombie's alert sound. With `alert` quiet at 10%, a zombie you enrage from
